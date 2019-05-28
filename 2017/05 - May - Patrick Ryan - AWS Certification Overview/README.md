@@ -3,6 +3,7 @@
 ## Link to video of presentation: 
 https://www.youtube.com/watch?v=hDK7D-JhnCQ&list=PLt4L3V8wVnF7Kw9p0KJcFU-6st5VYQgqP&index=2&t=621s
 
+## Resources:
 Kryterion Testing Center locations:
 www.kryteriononline.com
 
