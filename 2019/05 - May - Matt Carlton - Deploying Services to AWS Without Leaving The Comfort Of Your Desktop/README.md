@@ -1,4 +1,4 @@
-# Resources from Matt Carlton's presentation "Deploying Services to AWS Without Leaving The Comfort Of Your Desktop
+# Resources from Matt Carlton's presentation "Deploying Services to AWS Without Leaving The Comfort Of Your Desktop"
 
 ## Source Code:
 https://github.com/mcarlton00/aws-auto-deploy-demo
